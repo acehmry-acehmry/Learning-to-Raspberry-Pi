@@ -1,8 +1,6 @@
 # Learning-to-Raspberry-Pi
 Documenting my journey learning Raspberry Pi through hands-on engineering projects.
 
-# Raspberry Pi Projects
-
 Welcome!
 
 This repository documents my journey learning Raspberry Pi through hands-on engineering projects.
