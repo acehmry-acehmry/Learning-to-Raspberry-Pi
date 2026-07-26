@@ -1,0 +1,41 @@
+# Project 1 - Raspberry Pi Setup
+
+## Objective
+
+Learn the Raspberry Pi ecosystem and prepare it for future engineering projects. While I had done labs briefly like this in College, I always wanted to circle back and relearn this on my own time. 
+
+## Hardware
+
+- Raspberry Pi 5 (8 GB)
+- CanaKit Starter Kit
+- Wired keyboard and mouse
+- Monitor
+- Bread board and electronics starter kit
+
+## Software
+
+- Raspberry Pi OS
+- Python 3 / Thonny
+
+## Goals
+
+- Boot Raspberry Pi
+- Connect to Wi-Fi
+- Enable SSH
+- Learn Linux basics
+- Run first Python program
+- Relearn breadboard basics
+
+## Status
+
+Completed.
+
+## Challenges
+
+No challenges faced in assembling and powering on Raspberry Pi. Basic program was ran to test "Hello world!".
+
+Follow up challenge to connect Raspberry Pi to Breadboard and blink an LED in 1 second intervals.
+Research was needed to figure out some coding terminalogy. 
+Breadboard wiring was accomplished through trial and error. 
+
+
