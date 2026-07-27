@@ -1,1 +1,35 @@
+# Project 2 - Seven Segment Display
 
+## Objective
+
+Learn to light up 0-9 on a Seven Segment Display, controlled via button on breadboard.
+
+## Hardware
+
+- Raspberry Pi 5 (8 GB)
+- Seven Segment Display
+- CanaKit Starter Kit
+- Wired keyboard and mouse
+- Monitor
+- Bread board and electronics starter kit
+
+## Software
+
+- Raspberry Pi OS
+- Python 3 / Thonny
+
+## Goals
+
+- Light up display and learn pin layout
+- Control display with button press
+- Create and run program to have display light up numbers 0-9 sequentially
+- Continue learning breadboard and programming basics
+
+## Status
+
+Completed.
+
+## Challenges
+
+This project was similar in essence to lighting up an individual LED. By using multiple GPIO pins, I was able to easily - yet tediously - light up the Seven Segment Display in the pattern I desired. 
+My next goal is to use a chip to limit the GPIO's needed to control the display.
