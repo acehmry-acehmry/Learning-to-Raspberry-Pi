@@ -22,10 +22,13 @@ Each project is documented from planning through implementation, including the c
 
 - [ ] Raspberry Pi setup
 - [ ] Blink an LED
+- [ ] Seven Segment Display
+- [ ] 4 Digit Seven Segment Display using 74hc595 Chip
 - [ ] Read temperature, humidity, and pressure (BME280)
 - [ ] Log sensor data to CSV
 - [ ] Build a live web dashboard
 - [ ] Access dashboard from my phone
+- [ ] PiHole for Home Network
 - [ ] Add Raspberry Pi Camera
 - [ ] Motion detection
 - [ ] Smart Apartment Monitor
