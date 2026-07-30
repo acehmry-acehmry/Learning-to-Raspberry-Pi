@@ -4,7 +4,7 @@
 
 Learn to light up 0-9 on a Seven Segment Display, controlled via button on breadboard.
 
-## Hardware
+## Key Hardware
 
 - Raspberry Pi 5 (8 GB)
 - Seven Segment Display
