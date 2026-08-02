@@ -1,0 +1,40 @@
+# Project 3 - 4 Digit Seven Segment Display
+
+## Objective
+
+Learn to light up a 4 digit Seven Segment Display, controlled via button on breadboard.
+Connect display to 
+
+## Key Hardware
+
+- Raspberry Pi 5 (8 GB)
+- 4 Digit Seven Segment Display
+- CanaKit Starter Kit
+- Wired keyboard and mouse
+- Monitor
+- Bread board and electronics starter kit
+- 74HC595 shift register
+- BME280 chip
+- Solder station for BME280 chip
+
+## Software
+
+- Raspberry Pi OS
+- Python 3 / Thonny
+
+## Goals
+
+- Light up display and learn pin layout
+- Control display with button press
+- Create and run program to have display light up numbers 0-9999 sequentially
+- Limit GPIO usage with 74HC595 shift register chip
+- Collect data from BME280 Temp/Humidity/Pressure chip and display
+- Use button to switch through display modes
+- Continue learning breadboard and programming basics
+
+## Status
+
+Completed.
+
+## Challenges
+
