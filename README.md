@@ -1,5 +1,5 @@
 # Learning-to-Raspberry-Pi
-Documenting my journey learning Raspberry Pi through hands-on engineering projects.
+Documenting my journey learning Raspberry Pi through hands-on engineering projects beginning July 2026.
 
 Welcome!
 
